@@ -1,0 +1,8 @@
+tivo-xperi-module/allure-results/
+tivo-xperi-module/target/
+tivo-xperi-module/debug.log
+framework/target/
+allure-report/
+.idea/
+*.log
+tivo-xperi-module/tivo-xperi-module.iml
